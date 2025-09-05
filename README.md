@@ -1,4 +1,5 @@
 # 🚀 Smart Career Advisor - AI-Powered Career Path Recommendation System
+Note: The Code is completely generated / build by LLMs and APIs (It was allowed by GenAI Exchange Hackathon)  and managed by me! https://asimhusain.vercel.app
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green)
